@@ -1,0 +1,19 @@
+# Node
+node_modules/
+dist/
+
+# .NET
+bin/
+obj/
+
+# Environment
+.env
+
+# IDE
+.vs/
+.vscode/
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
